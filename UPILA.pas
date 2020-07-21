@@ -11,6 +11,7 @@ IMPLEMENTATION
 PROCEDURE CREARPILA (var pila: T_PILA);
 	BEGIN
 		pila:=nil;
+		// hola
 	end;
 PROCEDURE APILAR (var pila: T_PILA; info:T_DATO_PILA);
 	VAR dir:T_PILA;
